@@ -1,0 +1,2 @@
+-- React modal structure with redux and framer-motion
+-- esc key and clicking out of modal componnet, unMounts current modal.
